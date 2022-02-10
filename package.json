@@ -7,7 +7,7 @@
     "bulma": "^0.7.2",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "react": "16.7.0-alpha.0",
     "react-dom": "16.7.0-alpha.0",
     "react-scripts": "2.0.5",
